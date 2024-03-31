@@ -14,6 +14,9 @@ Call center analysis is crucial in monitoring and improving both call center man
   that your agents are not efficient, or that they are spending too much time on each call.   
 7)Customer satisfaction: gives how satisfied your customers are with your call center service by checking average satisfaction score
 
+<img width="710" alt="call_image" src="https://github.com/saithasai/Call-center-Analysis/assets/84937491/5024c12f-4dac-4820-a163-c2ce946f4f07">
+
+
 ### Findings:    
 1)The percentage of  calls over different communication channels not showing much difference  
 2)Billing question is the most common reasons that customer repeatedly contact customer support  
