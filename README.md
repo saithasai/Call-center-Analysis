@@ -14,8 +14,19 @@ Call center analysis is crucial in monitoring and improving both call center man
   that your agents are not efficient, or that they are spending too much time on each call.   
 7)Customer satisfaction: gives how satisfied your customers are with your call center service by checking average satisfaction score
 
-<img width="710" alt="call_image" src="https://github.com/saithasai/Call-center-Analysis/assets/84937491/5024c12f-4dac-4820-a163-c2ce946f4f07">
+So, pivot tables are made for the data analysis
+For primary KPIS
 
+<img width="637" alt="Screenshot 2024-03-31 161913" src="https://github.com/saithasai/Call-center-Analysis/assets/84937491/0deefe1e-dfa9-468e-84ca-2086eb2dc430">    
+
+For secondary KPIS and slicers
+
+<img width="342" alt="Screenshot 2024-03-31 163450" src="https://github.com/saithasai/Call-center-Analysis/assets/84937491/af66aba8-c558-4043-9bbf-a87366bb0cf2">  
+<img width="368" alt="Screenshot 2024-03-31 202037" src="https://github.com/saithasai/Call-center-Analysis/assets/84937491/7808ecfa-78d2-4a46-9558-591a9d4f4137">
+
+This is the final dashboard:
+
+<img width="758" alt="y" src="https://github.com/saithasai/Call-center-Analysis/assets/84937491/bea27493-fa0d-4950-8bdd-0712ec26094f">
 
 ### Findings:    
 1)The percentage of  calls over different communication channels not showing much difference  
