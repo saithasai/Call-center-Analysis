@@ -4,19 +4,28 @@
 
 Call center analysis is crucial in monitoring and improving both call center management and the customer experience.
 
+### Objective of this Project:
+Objective of this project is to build a dynamic dashboard in excel to find how much the customers are satisfied by the call centre by considering 6 metrics and discuss how to improve call center performance and customer experience.
+
+### Techniques Used
+Data extraction, cleaning, slicer making.
+
+### Tools used:
+MS Excel 
+
 ### These lists are taken account while analyzing call center data
 1)Channel Distribution: shows the percentage of  calls over different communication channels.  
 2)Reason Analysis: Explore the most common reasons that customer repeatedly contact customer support   
 3)Sentiment Analysis: Analyze emotional tone behind an incoming message and tells the underlying sentiment is positive or 
   negative or neutral feedbacks respectively   
-4)Service Level Agreement(SLA): calculates the percentage of interactions that fall above,below or within the defined 
+4)Service Level Agreement(SLA): calculates the percentage of interactions that fall above, below or within the defined 
   Service Level Agreement (SLA) response time.     
-5)Call volume: to find  how many calls your call center receives each day and total call duration    
+5)Call volume: to find how many calls your call center receives each day and total call duration    
 6)Average call duration: Finds how long it takes your agents to handle each call. A long average handle time can indicate 
   that your agents are not efficient, or that they are spending too much time on each call.   
 7)Customer satisfaction: gives how satisfied your customers are with your call center service by checking average satisfaction score
 
-So, pivot tables are made for the data analysis
+So, pivot tables are made for the data analysis   
 For primary KPIS
 
 <img width="637" alt="Screenshot 2024-03-31 161913" src="https://github.com/saithasai/Call-center-Analysis/assets/84937491/0deefe1e-dfa9-468e-84ca-2086eb2dc430">    
